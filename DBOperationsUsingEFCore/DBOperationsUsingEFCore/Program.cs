@@ -31,6 +31,7 @@ namespace DBOperationsUsingEFCore
             app.MapControllers();
 
             app.Run();
+
         }
     }
 }
